@@ -1,0 +1,15 @@
+{
+    "name": "drvovan/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Drvovan\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maxim Raychuk",
+            "email": "raychukmaxim@gmail.com"
+        }
+    ],
+    "require": {}
+}
